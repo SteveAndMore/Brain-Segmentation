@@ -1,6 +1,6 @@
 # Brain Tumor Segmentation with Deep Learning and Deep Ensembles
 
-This project focuses on brain tumor segmentation using a deep learning model implemented in TensorFlow and Keras. The goal is to identify and segment brain tumors from MRI scans, a crucial step in medical image analysis.
+This project focuses on brain tumor segmentation using a deep learning model implemented in TensorFlow and Keras. The goal is to identify and segment brain tumors from MRI scans, a crucial step in medical image analysis. I used Deep Ensembles to create a uncertainty map for the prediction of the U-Net.
 
 ![Resultat](result.png)
 
